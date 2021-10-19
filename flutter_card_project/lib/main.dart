@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//https://flutter.io/custom-fonts/#from-packages -- for add font
 
 void main() {
   runApp(
